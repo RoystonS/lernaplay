@@ -1,6 +1,6 @@
 {
   "name": "@ibmi2/primitive-controls",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "module": "dist/es2015/index.js",
   "types": "dist/es2015/index.d.ts",
   "license": "MIT",
