@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "es2017",
+        "jsx": "react",
+        "sourceMap": true
+    }
+}
