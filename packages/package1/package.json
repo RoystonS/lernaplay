@@ -1,10 +1,10 @@
 {
   "name": "@ibmi2/some-package",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@ibmi2/primitive-controls": "^1.3.0",
+    "@ibmi2/primitive-controls": "^1.4.0",
     "chalk": "^2.3.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
